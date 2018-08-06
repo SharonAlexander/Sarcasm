@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/layout_to_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <CheckBox
+            android:id="@+id/sarcasm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_sarcasm"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/beLikeBro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_belikebro"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/dude"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_dude"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/dude2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_dude2"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/dudeandyobro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_dudeandyobro"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/mclovin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_mclovin"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/memes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_memes"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/noonecares"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_noonecares"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/carmemes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_carmemes"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/maleslife"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_maleslife"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/correctbro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_correctbro"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/sadcasm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_sadcasm"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/serioushumor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_serioushumor"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/trollfootball1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_trollfootball1"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/trollfootball2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_trollfootball2"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/funnyordie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_funnyordie"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:id="@+id/auntyacid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pagename_auntyacid"
+            android:textSize="15sp" />
+    </LinearLayout>
+</ScrollView>

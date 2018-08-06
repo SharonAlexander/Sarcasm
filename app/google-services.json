@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "197541854534",
+    "firebase_url": "https://sasrcam.firebaseio.com",
+    "project_id": "sasrcam",
+    "storage_bucket": "sasrcam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197541854534:android:c2688fee94d65ab3",
+        "android_client_info": {
+          "package_name": "com.sharonalexander.sarcasm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197541854534-jdq7i9fd25ub3i3mib1cqfl1uenm4if4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2azovPdKu-lUkqq3NJjM38kpP0opno_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
