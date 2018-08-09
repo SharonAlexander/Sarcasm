@@ -20,7 +20,7 @@ public class Constants {
     public static String facebook_app_id = "2111173035815618";
 
     // Those who copy the code please create your own app token from facebook. Thanks
-    public static String facebook_app_token = "1968121726796573|Cxh_FFCgNzemgn501kd31znr9RM";
+    public static String facebook_app_token = "482856168756600|Oz-RWx6e1U5z011vOooc1Io1v2c";
 
     //Ads
     public static String facebook_banner_main = "2111173035815618_2112236772375911";
